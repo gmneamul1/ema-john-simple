@@ -6,7 +6,8 @@
     justify-content: space-around;
     padding-left: 50px;
     padding-right: 140px;
-    position: fixed;
+    position: sticky;
+    
     top: 0px;
     z-index: 1;
     width: 100%;
